@@ -1,11 +1,11 @@
 # SIT_AI
 
-Nhóm 1: 
+-- Nhóm 1: 
 
-  Nguyễn Thị Lan Anh
+  - Nguyễn Thị Lan Anh
   
-  Nguyễn Thành Hưng
+  - Nguyễn Thành Hưng
   
-  Đinh Huy Hoàng
+  - Đinh Huy Hoàng
   
-  Bùi Đức Lân
+  - Bùi Đức Lân
