@@ -1,6 +1,6 @@
 # SIT_AI
 
--- Nhóm 1: 
+**Nhóm 1:** 
 
   - Nguyễn Thị Lan Anh
   
